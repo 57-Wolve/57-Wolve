@@ -9,6 +9,12 @@
   </div>
 
   <h1>57_Wolve</h1>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src='https://skillicons.dev/icons?i=arduino,bash,linux,raspberrypi,openstack,c,cpp,go,php,js,nodejs,html,cloudflare,discord,bots,docker,git,gitlab,mysql,vscode' />
+    </a>
+  </p>
 </div>
 
 <hr />
