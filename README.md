@@ -20,5 +20,5 @@
 <hr />
 
 <div align='center'>
-  <img src='./github-metrics.svg' />
+  <img src='https://raw.githubusercontent.com/57-Wolve/57-Wolve/main/github-metrics.svg' />
 </div>
