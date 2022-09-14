@@ -11,7 +11,7 @@
   <h1>57_Wolve</h1>
   <center><p>Technology Enthusiast, Systems Administrator, Network Engineer</p></center>
 
-  <p>Owner and Operator of <a href="https://AS400245.net/">AS400245.net</a> network.</p>
+  <p>Owner and Operator of <a href="https://AS400245.net/">AS400245.net</a>.</p>
   
 <hr />
   
